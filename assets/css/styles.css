@@ -381,6 +381,12 @@ footer {
     transition: 0.3s;
 }
 
+.footer-social p {
+    color: #bc4123;
+    font-family: 'Rambla', sans-serif;
+    font-size: 13px;
+}
+
 
 /*-----------MEDIA QUERIES----------*/
 
