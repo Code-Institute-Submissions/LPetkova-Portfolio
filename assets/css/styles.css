@@ -8,10 +8,6 @@
 
 /*-----------GLOBAL CLASSES-----------*/
 
-a {
-    color: #ffffff !important;
-}
-
 p {
     margin: 0;
 }
@@ -73,6 +69,10 @@ header > .container {
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
+}
+
+.nav-item a {
+    color: #ffffff !important;
 }
 
 .nav-list {
@@ -156,6 +156,10 @@ header > .container {
 .about p{
     color: #463940;
     font-family: 'Rambla', sans-serif;
+}
+
+.contact-link {
+    color: #e75a2f !important;
 }
 
 .about .btn {
