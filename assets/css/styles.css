@@ -182,7 +182,7 @@ header > .container {
 }
 
 .skill-box {
-    box-sizing: order-box;
+    box-sizing: border-box;
     width: 100%;
     margin: 20px 0;
 }
@@ -524,13 +524,13 @@ input[type="submit"]:hover {
     opacity: 1; /* Firefox */
   }
   
-  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
    color: #463940;
-  }
+}
   
-  ::-ms-input-placeholder { /* Microsoft Edge */
+::-ms-input-placeholder { /* Microsoft Edge */
    color: #463940;
-  }
+}
 
 /*-----------FOOTER AREA----------*/
 
@@ -583,6 +583,7 @@ footer {
 @media (min-width: 768px ) {
     .col-md-4 {
         width: 29% !important;
+    }
 }
 
 @media (min-width: 992px ) {
