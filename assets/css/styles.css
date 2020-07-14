@@ -434,9 +434,10 @@ header > .container {
     color: transparent;
 }
 
-#testimonials-slides {
+.testimonials-slides {
     background-color: #ffffff;
-    height:400px;
+    height: 500px;
+    padding: 50px 0;
 }
 
 .img-box {
