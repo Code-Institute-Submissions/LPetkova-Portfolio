@@ -69,7 +69,7 @@ header > .container {
 }
 
 .nav-item {
-    font-size: 16px;
+    font-size: 100%;
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
@@ -109,12 +109,11 @@ header > .container {
     font-family: 'Staatliches', cursive;
     color: #bc4123;
     letter-spacing:1.5px;
-    font-size: 63px;
 }
 
 .hero-text p {
     font-family: 'Oswald', sans-serif;
-    font-size: 2em;
+    font-size: 200%;
     font-weight: 200;
     letter-spacing:1px;
 }
@@ -126,12 +125,13 @@ header > .container {
 .section-heading h4{
     color: #e75a2f;
     font-family:'Oswald', sans-serif;
-    font-size: 1.5rem;
+    font-size: 150%;
     letter-spacing: 1px;
 }
 
 .section-heading h1 {
-    font-size: 50px;
+    font-size: 250%;
+    font-weight: 300;
     color: #0b172a;
     font-family: 'Oswald', sans-serif;
     letter-spacing: 1px;
@@ -420,7 +420,7 @@ header > .container {
 .testimonials-heading h1 {
     color: #e75a2f;
     font-family:'Oswald', sans-serif;
-    font-size: 2.5rem;
+    font-size: 250%;
     letter-spacing: 1px;
 }
 
@@ -481,12 +481,12 @@ form {
     margin: 0 auto;
     color: #ffffff;
     font-family: 'Oswald', sans-serif;
-    font-size: 1rem;
+    font-size: 100%;
     letter-spacing: 1px;
 }
 
 form label {
-    font-size: 1rem;
+    font-size: 100%;
     font-family: 'Oswald', sans-serif;
 }
 
@@ -561,7 +561,7 @@ footer {
 .footer-social p {
     color: #bc4123;
     font-family: 'Rambla', sans-serif;
-    font-size: 13px;
+    font-size: 80%;
 }
 
 
