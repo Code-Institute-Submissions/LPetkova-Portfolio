@@ -23,7 +23,7 @@ The portfolio starts with a small About me section from where also my CV could b
 
         As a recruiter I expect easily to find and export Lyubomila's CV.
 
-        <img src="aasets/images/download_cv.png">
+        <img src="assets/images/download_cv.png">
 
 -   ### Design
 
@@ -71,7 +71,7 @@ The portfolio starts with a small About me section from where also my CV could b
 1. GitHub 
 - used to store the projects code after being pushed from Git.
 
-1. [Unsplash:] (https://unsplash.com/) 
+1. [Unsplash:](https://unsplash.com/) 
 - All images on the website are downloaded from Unsplash.
 
 ## Testing
@@ -101,7 +101,7 @@ $ git clone https://github.com/Leoney/user-centric-frontend.git
 
 ### Code
 
-- I was using help from [Julio Codes](https://www.youtube.com/c/JulioCodes/about) channel and more specifiaclly for the header and navigation menu I was using this [tutorial] (https://www.youtube.com/watch?v=M9BODcrzp4o).
+- I was using help from [Julio Codes](https://www.youtube.com/c/JulioCodes/about) channel and more specifiaclly for the header and navigation menu I was using this [tutorial](https://www.youtube.com/watch?v=M9BODcrzp4o).
 
 - [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
