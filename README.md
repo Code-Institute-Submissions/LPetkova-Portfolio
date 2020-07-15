@@ -14,7 +14,7 @@ The portfolio starts with a small About me section from where also my CV could b
 
             <img src="assets/images/projects_showcase.png">
         
-        2. As an employer I want to see testimonials giving a further indication of the quality of Lyubopmila's work. 
+        2. As an employer I want to see testimonials giving a further indication of the quality of Lyubomila's work. 
 
              <img src="assets/images/testimonials.png">
 
@@ -44,6 +44,10 @@ The portfolio starts with a small About me section from where also my CV could b
 
 -   Interactive elements
 
+### Features Left to Implement
+
+In future I would like to add a logo, up-to-date CV, add more languages and tools in the skills section and add real projects that I have worked to on.
+
 ## Technologies Used
 
 ### Languages Used
@@ -56,22 +60,22 @@ The portfolio starts with a small About me section from where also my CV could b
 1.  Bootstrap (4.3.1) 
 - it was used to assist with the responsiveness and styling of the website.
 
-1. Google Fonts 
+2. Google Fonts 
 - it was used to import the 'Oswald', 'Staatliches' and 'Rambla' font into the style.css.
 
-1. Font Awesome 
+3. Font Awesome 
 - it was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
-1. jQuery 
+4. jQuery 
 - used to make the navbar responsive but was also used for the smooth appearance of each section during the scrolling through the page.
 
-1. Git 
+5. Git 
 - used for version control.
 
-1. GitHub 
+6. GitHub 
 - used to store the projects code after being pushed from Git.
 
-1. [Unsplash:](https://unsplash.com/) 
+7. [Unsplash:](https://unsplash.com/) 
 - All images on the website are downloaded from Unsplash.
 
 ## Testing
@@ -80,12 +84,16 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Testing User Stories from User Experience (UX) Section
 
-The goals for prospective employer and recruiter are achieved. On loading the portfolio website there is easily readable navigation menu from which they can find the page of their choice. The the about me section they can find information about me as the option to download my CV via pressing a button which will load a new page with pdf document. If theye have any questions there is a hyperlink in the about me section which will direct them to the contact form. A showcase of projects that I have been working on can be find in recent projects section where are six cards with name of the project and short description as well as Font Awesome icons-links to the code in GitHub or live demo both of which will be opened in a new tab. Just below the projects cards they can find a drop dow button which on pressing will show a table with couple more projects, used tools and again Font Awesome icons-links to the code in GitHub or live demo both of which will be opened in a new tab. They are also able to view a carousel of slides with references from people who I was working previously and my social media profiles via clicking on the icons in the footer. 
+The goals for prospective employer and recruiter are achieved. On loading the portfolio website there is easily readable navigation menu from which they can find the page of their choice. The about me section they can find information about me as the option to download my CV via pressing a button which will load a new page with pdf document. If they have any questions there is a hyperlink in the about me section which will direct them to the contact form. A showcase of projects that I have been working on can be find in recent projects section where are six cards with name of the project and short description as well as Font Awesome icons-links to the code in GitHub or live demo both of which will be opened in a new tab. Just below the projects cards they can find a drop dow button which on pressing will show a table with couple more projects, used tools and again Font Awesome icons-links to the code in GitHub or live demo both of which will be opened in a new tab. They are also able to view a carousel of slides with references from people who I was working with previously and my social media profiles via clicking on the icons in the footer. 
 
 ### Further Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The Website was tested on Google Chrome,Mozilla Firefox, Safari and  Internet Explorer browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+
+### Known bugs 
+
+On Internet Explorer Browsers the navbar disappears.
 
 
 ## Deployment
