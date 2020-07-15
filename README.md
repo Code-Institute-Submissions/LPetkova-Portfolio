@@ -46,7 +46,7 @@ The portfolio starts with a small About me section from where also my CV could b
 
 ### Features Left to Implement
 
-In future I would like to add a logo, up-to-date CV, add more languages and tools in the skills section and add real projects that I have worked to on.
+In future I would like to add a logo, up-to-date CV, add more languages and tools in the skills section and add real projects that I have worked on.
 
 ## Technologies Used
 
@@ -57,22 +57,22 @@ In future I would like to add a logo, up-to-date CV, add more languages and tool
 
 ### Frameworks, Libraries & Programs Used
 
-1.  Bootstrap (4.3.1) 
+1.  [Bootstrap (4.3.1):](https://getbootstrap.com/docs/4.3/getting-started/download/)
 - it was used to assist with the responsiveness and styling of the website.
 
-2. Google Fonts 
+2. [Google Fonts:](https://fonts.google.com/) 
 - it was used to import the 'Oswald', 'Staatliches' and 'Rambla' font into the style.css.
 
-3. Font Awesome 
+3. [Font Awesome:](https://fontawesome.com/)
 - it was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
-4. jQuery 
+4. [jQuery:](https://jquery.com/) 
 - used to make the navbar responsive but was also used for the smooth appearance of each section during the scrolling through the page.
 
-5. Git 
+5. [Git:](https://git-scm.com/)
 - used for version control.
 
-6. GitHub 
+6. [GitHub:](https://github.com/) 
 - used to store the projects code after being pushed from Git.
 
 7. [Unsplash:](https://unsplash.com/) 
@@ -80,7 +80,7 @@ In future I would like to add a logo, up-to-date CV, add more languages and tool
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+For testing my work in progress I was using Google Chrome Developer Tools. The [W3C Markup Validator](https://validator.w3.org/#validate_by_input) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -88,7 +88,7 @@ The goals for prospective employer and recruiter are achieved. On loading the po
 
 ### Further Testing
 
--   The Website was tested on Google Chrome,Mozilla Firefox, Safari and  Internet Explorer browsers.
+-   The Website was tested on Google Chrome,Mozilla Firefox, Safari, Microsoft Edge and  Internet Explorer browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
 
 ### Known bugs 
@@ -99,10 +99,10 @@ On Internet Explorer Browsers the navbar disappears.
 ## Deployment
 
 This site is hosted using GitHub pages, deployed directly from the master branch. 
-This is a link to the [repository](https://github.com/Leoney/user-centric-frontend/) from where you can make a copy of it by forking or make a local clobe by simply pasting the below command into your terminal:
+This is a link to the [repository](https://github.com/Leoney/LPetkova-Portfolio) from where you can make a copy of it by forking or make a local clobe by simply pasting the below command into your terminal:
 
 ```
-$ git clone https://github.com/Leoney/user-centric-frontend.git
+$ git clone https://github.com/Leoney/LPetkova-Portfolio.git
 ```
 
 ## Credits
@@ -111,7 +111,7 @@ $ git clone https://github.com/Leoney/user-centric-frontend.git
 
 - I was using help from [Julio Codes](https://www.youtube.com/c/JulioCodes/about) channel and more specifiaclly for the header and navigation menu I was using this [tutorial](https://www.youtube.com/watch?v=M9BODcrzp4o).
 
-- [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+- [Bootstrap 4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
 - The Code Institute Mini Project with Bootstrap 4 module. 
 
