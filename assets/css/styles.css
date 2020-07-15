@@ -137,12 +137,36 @@ header > .container {
     letter-spacing: 1px;
 }
 
+.section-heading h2 {
+    font-size: 250%;
+    font-weight: 300;
+    color: #0b172a;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+}
+
 .section-heading h1 span {
     position: relative;
     padding-right: 44px;
 }
 
 .section-heading h1 span::after {
+    display: block;
+    position: absolute;
+    content: "";
+    width: 34px;
+    margin: 0;
+    right: 0;
+    bottom: 14px;
+    border-bottom: 4px solid #e75a2f;
+}
+
+.section-heading h2 span {
+    position: relative;
+    padding-right: 44px;
+}
+
+.section-heading h2 span::after {
     display: block;
     position: absolute;
     content: "";
@@ -421,7 +445,7 @@ header > .container {
     background: #0b172a;
 }
 
-.testimonials-heading h1 {
+.testimonials-heading {
     color: #e75a2f;
     font-family:'Oswald', sans-serif;
     font-size: 250%;
