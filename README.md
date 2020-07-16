@@ -103,8 +103,9 @@ The goals for prospective employer and recruiter are achieved. On loading the po
 
 - On mobile devices when clicked on the links in the navigation menu it does not close up. This requires changes in the javascript and it's will be fixed during the learning in the next Javascript module. 
 
-- On W3C Markup Validator has the following warning - *Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.*
-*<section class="testimonials" id="testimonials">↩ *
+- On W3C Markup Validator has the following warning:
+*Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.*
+*<section class="testimonials" id="testimonials">*
 As I am using Font Awesome icon instead an empty heading which contains only the icon is not an option too as then the warnin changes to *Empty heading.*
 
 
@@ -113,7 +114,7 @@ As I am using Font Awesome icon instead an empty heading which contains only the
 ## Deployment
 
 This site is hosted using GitHub pages, deployed directly from the master branch. 
-This is a link to the [repository](https://github.com/Leoney/LPetkova-Portfolio) from where you can make a copy of it by forking or make a local clobe by simply pasting the below command into your terminal:
+This is a link to the [repository](https://github.com/Leoney/LPetkova-Portfolio) from where you can make a copy of it by forking or make a local clone by simply pasting the below command into your terminal:
 
 ```
 $ git clone https://github.com/Leoney/LPetkova-Portfolio.git
