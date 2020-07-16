@@ -101,11 +101,13 @@ The goals for prospective employer and recruiter are achieved. On loading the po
 
 - On Internet Explorer Browsers the navbar disappears.
 
-- On mobile devices when clicked on the links in the navigation menu it does not close up. This requires changes in the javascript and it's will be fixed during the learning in the next Javascript module. 
+- On mobile devices when clicked on the links in the navigation menu it does not close up. This requires changes in the javascript and it will be fixed during the learning in the next Javascript module. 
 
 - On W3C Markup Validator has the following warning:
 *Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.*
-*<section class="testimonials" id="testimonials">*
+```
+<section class="testimonials" id="testimonials">
+```
 As I am using Font Awesome icon instead an empty heading which contains only the icon is not an option too as then the warnin changes to *Empty heading.*
 
 
