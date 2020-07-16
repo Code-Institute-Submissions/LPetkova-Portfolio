@@ -4,6 +4,12 @@
 This is my portfolio website which will be used to share and showecase my work with potential employers.
 The portfolio starts with a small About me section from where also my CV could be downloaded, continues with progress bars of my coding skills, followed by a list of recent projects sections and a drop-down archive list of previous projects (both recent and previous projects are fictional), finishing with a testimonial carousel and contact form. 
 
+## Demo 
+
+A live demo can be found [here](https://leoney.github.io/LPetkova-Portfolio/).
+
+<img src="assets/images/mockup.png">
+
 ## User Experience (UX)
 
 -   ### User stories
@@ -93,7 +99,15 @@ The goals for prospective employer and recruiter are achieved. On loading the po
 
 ### Known bugs 
 
-On Internet Explorer Browsers the navbar disappears.
+- On Internet Explorer Browsers the navbar disappears.
+
+- On mobile devices when clicked on the links in the navigation menu it does not close up. This requires changes in the javascript and it's will be fixed during the learning in the next Javascript module. 
+
+- On W3C Markup Validator has the following warning - *Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.*
+*<section class="testimonials" id="testimonials">↩ *
+As I am using Font Awesome icon instead an empty heading which contains only the icon is not an option too as then the warnin changes to *Empty heading.*
+
+
 
 
 ## Deployment
@@ -109,7 +123,7 @@ $ git clone https://github.com/Leoney/LPetkova-Portfolio.git
 
 ### Code
 
-- I was using help from [Julio Codes](https://www.youtube.com/c/JulioCodes/about) channel and more specifiaclly for the header and navigation menu I was using this [tutorial](https://www.youtube.com/watch?v=M9BODcrzp4o).
+- I was using help from [Julio Codes](https://www.youtube.com/c/JulioCodes/about) channel and more specifiaclly for the header and navigation menu I was using this [tutorial](https://www.youtube.com/watch?v=M9BODcrzp4o) and for the contact form this [tutorial](https://www.youtube.com/watch?v=T7PnWnTgusc)
 
 - [Bootstrap 4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
