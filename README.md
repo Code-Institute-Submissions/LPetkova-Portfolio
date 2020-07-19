@@ -2,7 +2,7 @@
 
 
 This is my portfolio website which will be used to share and showecase my work with potential employers.
-The portfolio starts with a small About me section from where also my CV could be downloaded, continues with progress bars of my coding skills, followed by a list of recent projects sections and a drop-down archive list of previous projects (both recent and previous projects are fictional), finishing with a testimonial carousel and contact form. 
+After the welcome page with the navigation, the portfolio starts with about me section from where also my CV could be downloaded, continues with progress bars of my coding skills, followed by a list of recent projects sections and a drop-down archive list of previous projects (both recent and previous projects are fictional), finishing with a testimonial carousel and contact form for which except in the navigation there is also link to it in the about me section. 
 
 ## Demo 
 
@@ -16,9 +16,8 @@ A live demo can be found [here](https://leoney.github.io/LPetkova-Portfolio/).
 
     -   #### Prospective Employer Goals
 
-        1. As an employer I expect to see a showcase of Lyubomila's work. 
+        1. As an employer I expect to see not only a list of Lyubomila's skills but a showcase of her work. 
 
-            <img src="assets/images/projects_showcase.png">
         
         2. As an employer I want to see testimonials giving a further indication of the quality of Lyubomila's work. 
 
@@ -87,6 +86,9 @@ In future I would like to add a logo, up-to-date CV, add more languages and tool
 ## Testing
 
 For testing my work in progress I was using Google Chrome Developer Tools. The [W3C Markup Validator](https://validator.w3.org/#validate_by_input) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   W3C Markup Validator - [Results](https://github.com/Leoney/LPetkova-Portfolio/tree/master/assets/images/W3C-Markup-Validator-2020-07-19-11_25_44.png)
+-   W3C CSS Validator - [Results](https://github.com/Leoney/LPetkova-Portfolio/tree/master/assets/images/W3C-CSS-Validator-2020-07-19-11_27_28.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
