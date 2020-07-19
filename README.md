@@ -87,8 +87,8 @@ In future I would like to add a logo, up-to-date CV, add more languages and tool
 
 For testing my work in progress I was using Google Chrome Developer Tools. The [W3C Markup Validator](https://validator.w3.org/#validate_by_input) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   W3C Markup Validator - [Results](https://github.com/Leoney/LPetkova-Portfolio/tree/master/assets/images/W3C-Markup-Validator-2020-07-19-11_25_44.png)
--   W3C CSS Validator - [Results](https://github.com/Leoney/LPetkova-Portfolio/tree/master/assets/images/W3C-CSS-Validator-2020-07-19-11_27_28.png)
+-   W3C Markup Validator - [Results](https://github.com/Leoney/LPetkova-Portfolio/tree/master/assets/validation_results/W3C-Markup-Validator-2020-07-19-11_25_44.png)
+-   W3C CSS Validator - [Results](https://github.com/Leoney/LPetkova-Portfolio/tree/master/assets/validation_results/W3C-CSS-Validator-2020-07-19-11_27_28.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
