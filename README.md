@@ -92,7 +92,7 @@ For testing my work in progress I was using Google Chrome Developer Tools. The [
 
 ### Testing User Stories from User Experience (UX) Section
 
-The goals for prospective employer and recruiter are achieved. On loading the portfolio website there is easily readable navigation menu from which they can find the page of their choice. The about me section they can find information about me as the option to download my CV via pressing a button which will load a new page with pdf document. If they have any questions there is a hyperlink in the about me section which will direct them to the contact form. A showcase of projects that I have been working on can be find in recent projects section where are six cards with name of the project and short description as well as Font Awesome icons-links to the code in GitHub or live demo both of which will be opened in a new tab. Just below the projects cards they can find a drop dow button which on pressing will show a table with couple more projects, used tools and again Font Awesome icons-links to the code in GitHub or live demo both of which will be opened in a new tab. They are also able to view a carousel of slides with references from people who I was working with previously and my social media profiles via clicking on the icons in the footer. 
+The goals for prospective employer and recruiter are achieved. On loading the portfolio website there is easily readable navigation menu from which they can find the page of their choice. The about me section they can find information about me as the option to download my CV via pressing a button which will load a new page with pdf document. If they have any questions there is a hyperlink in the about me section which will direct them to the contact form. A showcase of projects that I have been working on can be find in recent projects section where are six cards with name of the project and short description as well as Font Awesome icons-links to the code in GitHub or live demo both of which will be opened in a new tab. Just below the projects cards they can find a drop down button which on pressing will show a table with couple more projects, used tools and again Font Awesome icons-links to the code in GitHub or live demo both of which will be opened in a new tab. They are also able to view a carousel of slides with references from people who I was working with previously and my social media profiles via clicking on the icons in the footer. 
 
 ### Further Testing
 
@@ -110,7 +110,7 @@ The goals for prospective employer and recruiter are achieved. On loading the po
 ```
 <section class="testimonials" id="testimonials">
 ```
-As I am using Font Awesome icon instead an empty heading which contains only the icon is not an option too as then the warnin changes to *Empty heading.*
+As I am using Font Awesome icon instead an empty heading which contains only the icon is not an option too as then the warning changes to *Empty heading.*
 
 
 
